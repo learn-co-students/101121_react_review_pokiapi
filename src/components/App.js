@@ -50,5 +50,3 @@ function App() {
 }
 
 export default App;
-///         app
-// Search PokemonCard  Team
